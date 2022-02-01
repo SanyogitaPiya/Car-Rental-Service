@@ -1,5 +1,6 @@
 # Car-Rental-Service
 ## Designed and implemented a database for keeping track of information about a car rental company by creating an ER schema diagram, implementing it in SQL, and creating queries and a GUI application of the car rental company.
+### Project Contributors: Sanyogita Piya, Nirdesh Sakh, Nischal Rana
 Programming Language: PYTHON		Database: SQL by using MySQL Workbench.
 Once Compiled GUI looks like this:
 ![image](https://user-images.githubusercontent.com/85206339/152048032-793701d1-add0-4c7c-bc1c-b1bafbaf0eb3.png)
