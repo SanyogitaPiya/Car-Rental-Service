@@ -16,3 +16,9 @@ Once Compiled GUI looks like this:
 ![image](https://user-images.githubusercontent.com/85206339/152048355-63c88bcd-678b-4cfd-be80-eeaf2643c4b5.png)
 6.	“Click to search for vehicles”: Here the user can give vehicle number or description to find its details.
 ![image](https://user-images.githubusercontent.com/85206339/152048391-988a9373-6e20-4ff4-8f11-7c0c6d48ed43.png)
+
+ER DIAGRAM FOR THE DATABASE:
+![image](https://user-images.githubusercontent.com/85206339/152628782-d03238de-0535-46f0-8bcf-8ff87586f757.png)
+
+RELATIONAL DATABASE SCHEMA:
+![image](https://user-images.githubusercontent.com/85206339/152628788-aa756427-0d0f-4bb2-8041-1d4a52d076ba.png)
